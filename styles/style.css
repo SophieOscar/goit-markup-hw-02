@@ -46,5 +46,15 @@ body {
 .header-links:hover, .header-links:focus {
     color: #2196F3;
 }
-
+.efect-decision {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
 
