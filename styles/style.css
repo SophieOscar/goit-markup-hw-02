@@ -1,5 +1,9 @@
 body {
+    font-family: 'Raleway';
     background-color: #F5F5F5;
+}
+.link {
+    text-decoration: none;
 }
 .header {
     background-color: #ECECEC;
@@ -17,8 +21,6 @@ body {
     background-color: #2F303A;
 }
 .text-web {
-    
-    font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
