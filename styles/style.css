@@ -1,5 +1,5 @@
 body {
-    font-family: 'Raleway';
+    font-family: 'Roboto';
     background-color: #F5F5F5;
 }
 .link {
@@ -24,6 +24,7 @@ body {
     background-color: #2F303A;
 }
 .text-web {
+    font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
@@ -41,7 +42,6 @@ body {
     color: #000000;
 }
 .header-links {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -53,7 +53,6 @@ body {
     color: #2196F3;
 }
 .efect-decision {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
@@ -67,7 +66,6 @@ body {
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -79,7 +77,6 @@ body {
     color: #FFFFFF;
 }
 .facts-header {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -89,7 +86,6 @@ body {
     color: #212121;
 }
 .description-items {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -98,7 +94,6 @@ body {
     color: #757575;
 }
 .job-header {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -108,7 +103,6 @@ body {
     color: #212121;
 }
 .name {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -118,7 +112,6 @@ body {
     color: #212121;
 }
 .description-team-items {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -128,7 +121,6 @@ body {
     color: #757575;
 }
 .address {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -137,7 +129,6 @@ body {
     color: #FFFFFF;
 }
 .mail-tel {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -149,7 +140,6 @@ body {
     background-color: #FFFFFF;
 }
 .portfolio-head {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -158,7 +148,6 @@ body {
     color: #212121;
 }
 .description-chapters {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -170,7 +159,6 @@ body {
     background-color: #EEEEEE;
 }
 .navigate {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -182,7 +170,6 @@ body {
     border-radius: 4px;
 }
 .navigate {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -198,7 +185,6 @@ body {
     background: #2196F3;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     border-radius: 4px;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
