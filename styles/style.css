@@ -14,7 +14,7 @@ body {
 .main-header {
     background-color: #2F303A;
 }
-.studio-facts {
+.studio-facts,.activities {
     background-color: #F5F5F5;
 }
 .studio-team {
