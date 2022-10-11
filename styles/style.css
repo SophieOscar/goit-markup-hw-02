@@ -190,5 +190,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
+    background: #F5F4FA;
+    border-radius: 4px;
 }
 
