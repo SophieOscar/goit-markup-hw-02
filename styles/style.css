@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto';
-    background-color: #FFFFFF;
+    background-color: #F5F5F5;
 }
 .link {
     text-decoration: none;
@@ -8,14 +8,14 @@ body {
 .list {
     list-style: none;
 }
+.header1 {
+    background-color: #EEEEEE;
+}
 .header2 {
     background-color: #F5F5F5;
 }
 .main-header {
     background-color: #2F303A;
-}
-.studio-facts,.activities {
-    background-color: #F5F5F5;
 }
 .studio-team {
     background-color: #F5F4FA;
