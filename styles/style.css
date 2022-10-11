@@ -192,6 +192,7 @@ body {
     color: #212121;
     background: #F5F4FA;
     border-radius: 4px;
+    border: none;
 }
 .navigate:hover, .navigate:focus {
     background: #2196F3;
