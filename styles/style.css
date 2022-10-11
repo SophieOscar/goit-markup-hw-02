@@ -20,6 +20,9 @@ body {
 .footer {
     background-color: #2F303A;
 }
+.studio-chapters-item {
+    background-color: #EEEEEE;
+}
 .text-web {
     font-family: 'Raleway';
     font-style: normal;
