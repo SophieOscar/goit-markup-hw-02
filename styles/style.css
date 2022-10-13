@@ -48,7 +48,14 @@ body {
     letter-spacing: 0.02em;
     color: #212121;
 }
-header-link {
+.header-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.mail-tel address {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
