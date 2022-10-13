@@ -26,6 +26,7 @@ body {
     color: #2196F3;
 }
 .text-studio {
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -33,6 +34,7 @@ body {
     color: #000000;
 }
 .text-studi {
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
