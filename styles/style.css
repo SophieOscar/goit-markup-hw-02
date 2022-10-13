@@ -22,7 +22,6 @@ body {
 }
 .text-web {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -31,7 +30,6 @@ body {
 }
 .text-studio {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -39,7 +37,6 @@ body {
     color: #000000;
 }
 .header-links {
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
@@ -50,7 +47,6 @@ body {
     color: #2196F3;
 }
 .efect-decision {
-    font-style: normal;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.4;
@@ -63,7 +59,6 @@ body {
     background: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
@@ -74,7 +69,6 @@ body {
     color: #FFFFFF;
 }
 .facts-header {
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.1;
@@ -83,7 +77,6 @@ body {
     color: #212121;
 }
 .description-items {
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
@@ -91,7 +84,6 @@ body {
     color: #757575;
 }
 .job-header {
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.2;
@@ -100,7 +92,6 @@ body {
     color: #212121;
 }
 .name {
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
@@ -109,7 +100,6 @@ body {
     color: #212121;
 }
 .description-team-items {
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.2;
@@ -118,7 +108,6 @@ body {
     color: #757575;
 }
 .address {
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
@@ -126,7 +115,6 @@ body {
     color: #FFFFFF;
 }
 .mail-tel {
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
@@ -137,7 +125,6 @@ body {
     background-color: #FFFFFF;
 }
 .portfolio-head {
-    font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -145,7 +132,6 @@ body {
     color: #212121;
 }
 .description-chapters {
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
@@ -156,7 +142,6 @@ body {
     background-color: #EEEEEE;
 }
 .navigate {
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
@@ -167,7 +152,6 @@ body {
     border-radius: 4px;
 }
 .navigate {
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
@@ -183,7 +167,6 @@ body {
     background: #2196F3;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     border-radius: 4px;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
