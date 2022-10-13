@@ -138,6 +138,8 @@ body {
     color: #FFFFFF;
 }
 .mail-tel {
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
@@ -167,16 +169,6 @@ body {
 .navigate {
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.6;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: #212121;
-    background: #F5F4FA;
-    border-radius: 4px;
-}
-.navigate {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
