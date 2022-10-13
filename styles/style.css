@@ -55,15 +55,6 @@ body {
     letter-spacing: 0.02em;
     color: #757575;
 }
-.mail-tel address {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.1;
-    letter-spacing: 0.02em;
-    color: #757575;
-}
 .link:hover, .link:focus {
     color: #2196F3;
 }
