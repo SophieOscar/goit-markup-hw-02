@@ -1,6 +1,18 @@
+:root {
+    --footer-header-color: #2F303A;
+    --back-color: #FFFFFF;
+    --web-text: #2196f3;
+    --text-color: #000000;
+    --team-back: #EEEEEE;
+    --link-color: #212121;
+    --head-link: #757575;
+    --navigate: #F5F4FA;
+
+
+}
 body {
     font-family: 'Roboto',sans-serif;
-    background-color: #FFFFFF;
+    background-color: var(--team-back);
 }
 .link {
     text-decoration: none;
@@ -9,13 +21,13 @@ body {
     list-style: none;
 }
 .main-header {
-    background-color: #2F303A;
+    background-color: var(--footer-header-color);
 }
 .footer {
-    background-color: #2F303A;
+    background-color: var(--footer-header-color);
 }
 .studio-team {
-    background-color: #EEEEEE;
+    background-color: var(--team-back);
 }
 .text-web {
     font-family: 'Raleway';
@@ -23,7 +35,7 @@ body {
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
-    color: #2196F3;
+    color: var(--web-text);
 }
 .text-studio {
     font-family: 'Raleway';
@@ -31,7 +43,7 @@ body {
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
-    color: #000000;
+    color: var(--text-color);
 }
 .text-studi {
     font-family: 'Raleway';
@@ -39,24 +51,24 @@ body {
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: var(--head-link);
 }
 .header-links {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.02em;
-    color: #212121;
+    color: var(--link-color);
 }
 .header-link {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.02em;
-    color: #757575;
+    color: var(--link-color);
 }
 .link:hover, .link:focus {
-    color: #2196F3;
+    color: var(--web-text);
 }
 .efect-decision {
     font-weight: 900;
@@ -65,7 +77,7 @@ body {
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: var(--team-back);
 }
 .order-service {
     font-family: 'Roboto';
@@ -79,10 +91,10 @@ body {
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
-    color: #FFFFFF;
+    color: var(--back-color);
 }
 .order-service:hover, .order-service:focus {
-    background: #2196F3;
+    background: var(--web-text);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     font-weight: 700;
@@ -92,7 +104,7 @@ body {
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
-    color: #FFFFFF;
+    color: var(--back-color);
     border: none;
     cursor: pointer;
 }
@@ -102,7 +114,7 @@ body {
     line-height: 1.1;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #212121;
+    color: var(--link-color);
 }
 .description-items {
     font-weight: 400;
@@ -116,7 +128,7 @@ body {
     line-height: 1.2;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #212121;
+    color: var(--link-color);
 }
 .name {
     font-weight: 500;
@@ -124,7 +136,7 @@ body {
     line-height: 19px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #212121;
+    color: var(--link-color);
 }
 .description-team-items {
     font-weight: 400;
@@ -140,7 +152,7 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: var(--back-color);
 }
 .mail-tel {
     font-family: 'Roboto';
@@ -149,27 +161,27 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: rgba(255, 255, 255, 0.6);
+    color: var(--head-link);
 }
 .name-card {
-    background-color: #FFFFFF;
+    background-color: var(--back-color);
 }
 .portfolio-head {
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
-    color: #212121;
+    color: var(--link-color);
 }
 .description-chapters {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
     letter-spacing: 0.03em;
-    color: #757575;
+    color: var(--head-link);
 }
 .name-card-portfolio {
-    background-color: #EEEEEE;
+    background-color: var(--team-back);
 }
 .navigate {
     font-family: 'Roboto';
@@ -179,12 +191,12 @@ body {
     line-height: 1.6;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #212121;
-    background: #F5F4FA;
+    color: var(--link-color);
+    background: var(--navigate);
     border-radius: 4px;
 }
 .navigate:hover, .navigate:focus {
-    background: #2196F3;
+    background: var(--web-text);
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
     border-radius: 4px;
     font-weight: 500;
@@ -192,7 +204,7 @@ body {
     line-height: 26px;
     text-align: center;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: var(--back-color);
     border: none;
     cursor: pointer;
 }
