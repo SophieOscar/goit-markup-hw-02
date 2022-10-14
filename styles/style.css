@@ -10,7 +10,7 @@
 }
 body {
     font-family: 'Roboto',sans-serif;
-    background-color: var(--team-back);
+    background-color: var(--back-color);
 }
 .link {
     text-decoration: none;
