@@ -7,8 +7,6 @@
     --link-color: #212121;
     --head-link: #757575;
     --navigate: #F5F4FA;
-
-
 }
 body {
     font-family: 'Roboto',sans-serif;
@@ -207,4 +205,16 @@ body {
     color: var(--back-color);
     border: none;
     cursor: pointer;
+}
+.hidden {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
 }
