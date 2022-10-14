@@ -49,7 +49,7 @@ body {
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
-    color: var(--head-link);
+    color: var(--back-color);
 }
 .header-links {
     font-weight: 500;
