@@ -173,9 +173,6 @@ body {
     letter-spacing: 0.03em;
     color: var(--head-link);
 }
-.name-card-portfolio {
-    background-color: var(--team-back);
-}
 .navigate {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
