@@ -10,7 +10,7 @@
     --color-button: #188CE8;
 }
 body {
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: var(--back-color);
 }
 .link {
@@ -29,7 +29,7 @@ body {
     background-color: var(--team-back);
 }
 .text-web {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -37,7 +37,7 @@ body {
     color: var(--web-text);
 }
 .text-studio {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -45,7 +45,7 @@ body {
     color: var(--text-color);
 }
 .text-studi {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -79,8 +79,7 @@ body {
     color: var(--team-back);
 }
 .order-service {
-    font-family: 'Roboto';
-    font-style: normal;
+    font-family: 'Roboto', sans-serif;
     background: #2196F3;
     border: none;
     border-radius: 4px;
@@ -138,7 +137,7 @@ body {
     letter-spacing: 0.03em;
 }
 .address {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -176,7 +175,7 @@ body {
     background-color: var(--team-back);
 }
 .navigate {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -192,12 +191,6 @@ body {
 .navigate:hover, .navigate:focus {
     background: var(--web-text);
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-    border-radius: 4px;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 26px;
-    text-align: center;
-    letter-spacing: 0.03em;
     color: var(--back-color);
     border: none;
     cursor: pointer;
