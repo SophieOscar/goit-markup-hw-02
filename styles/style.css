@@ -81,7 +81,6 @@ body {
 .order-service {
     font-family: 'Roboto', sans-serif;
     background: #2196F3;
-    border: none;
     border-radius: 4px;
     font-weight: 700;
     font-size: 16px;
@@ -91,12 +90,12 @@ body {
     text-align: center;
     letter-spacing: 0.06em;
     color: var(--back-color);
+    border: none;
+    cursor: pointer;
 }
 .order-service:hover, .order-service:focus {
     background: var(--color-button);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border: none;
-    cursor: pointer;
 }
 .facts-header {
     font-weight: 700;
