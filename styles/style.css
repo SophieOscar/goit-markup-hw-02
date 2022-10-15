@@ -82,8 +82,8 @@ body {
     font-family: 'Roboto';
     font-style: normal;
     background: #2196F3;
-    border-radius: 4px;
     border: none;
+    border-radius: 4px;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
@@ -97,6 +97,7 @@ body {
     background: var(--color-button);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     color: var(--back-color);
+    border: none;
     cursor: pointer;
 }
 .facts-header {
